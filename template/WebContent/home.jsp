@@ -9,9 +9,10 @@
 <meta http-equiv="Content-Style-Type" content="text/css"/>
 <meta http-equiv="Content-Script-Type" content="text/javascript"/>
 <meta http-equiv="imagetoolbar" content="no"/>
-<meta http-equiv="description" content=""/>
-<meta http-equiv="keywords" content=""/>
+<meta name="description" content=""/>
+<meta name="keywords" content=""/>
 <title>Home画面</title>
+
 <style type="text/css">
 body{
 margin: 0;
@@ -57,7 +58,8 @@ clear: both;
 </head>
 <body>
 <div id="header">
-	<div id="pr"></div>
+	<div id="pr">
+	</div>
 </div>
 <div id="main">
 	<div id="top">
